@@ -1,0 +1,2 @@
+total_transactions,actual_fraud,generated_alerts,accuracy,precision,recall,f1_score,true_positives,true_negatives,false_positives,false_negatives
+5000,300,314,0.9528,0.6019108280254777,0.63,0.6156351791530945,189,4575,125,111

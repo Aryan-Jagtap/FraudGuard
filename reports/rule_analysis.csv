@@ -1,0 +1,6 @@
+Rule,Description,Total Alerts,Actual Fraud,False Positives,Precision
+R001,High Value,113,100,13,0.885
+R002,High Velocity,20,20,0,1.0
+R003,Failed Attempts,60,60,0,1.0
+R004,Unusual Location,40,18,22,0.45
+R005,Unusual Spending,215,106,109,0.493

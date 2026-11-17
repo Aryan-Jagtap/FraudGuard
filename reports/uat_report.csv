@@ -1,0 +1,7 @@
+test_id,scenario,expected_rules,actual_rules,status
+TC001,Normal Transaction,None,None,PASS
+TC002,High Value Transaction,R001,R001,PASS
+TC003,High Transaction Velocity,R002,R002,PASS
+TC004,Multiple Failed Attempts,R003,R003,PASS
+TC005,Unusual Location with High Amount,R004,R004,PASS
+TC006,Unusual Spending above Minimum Amount,R005,R005,PASS

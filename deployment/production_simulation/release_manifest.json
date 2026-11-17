@@ -1,0 +1,9 @@
+{
+    "project": "FraudGuard",
+    "release_version": "v1.0.0",
+    "release_type": "Academic Production Simulation",
+    "release_timestamp_utc": "2026-11-17T09:59:48.104130+00:00",
+    "transaction_records": 5000,
+    "uat_status": "APPROVED",
+    "release_status": "SIMULATED"
+}

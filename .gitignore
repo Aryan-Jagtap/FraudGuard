@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editors
+.vscode/
+.idea/
